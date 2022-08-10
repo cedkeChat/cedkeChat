@@ -14,6 +14,14 @@ as programming languages code i use :
 do you love cats? :]
 ```
 
+```
+---
+```C#
+projects = [
+    "MamiesMod V4 Update",
+    "Grenadine",
+    "cedkeInject",
+]
 
 
 <div align="center">
