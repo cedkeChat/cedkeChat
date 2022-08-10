@@ -7,3 +7,8 @@ as programming languages code i use :
 - 👽 i learn C++
 
 --> 
+
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedkeChat&layout=compact&theme=github_dark&count_private=true" /><br />
+</div>
