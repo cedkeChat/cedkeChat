@@ -18,7 +18,7 @@ do you love cats? :]
 ```C#
 projects = [
     "Grenadine",
-    "MamiesMod V4 Update",
+    "MamiesMod V5",
     "cedkeInject",
 ]
 ```
