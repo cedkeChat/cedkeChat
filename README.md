@@ -10,7 +10,6 @@ as programming languages code i use :
 --> 
 
 <img src="https://lanyard.cnrad.dev/api/916962983958151168">
-<img src="https://lanyard-profile-readme.vercel.app/api/414544260956946432">
 
 ```text
 do you love cats? :]
