@@ -9,7 +9,7 @@ as programming languages code i use :
 
 --> 
 
-<img src="https://lanyard.cnrad.dev/api/916962983958151168">
+<img src="[![Discord Presence](https://lanyard.cnrad.dev/api/916962983958151168)](https://discord.com/users/916962983958151168)">
 
 ```text
 do you love cats? :]
