@@ -35,10 +35,8 @@ projects = [
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cedkeChat&show_icons=true&theme=github_dark&count_private=true" /><br />
 </div>
 
-#networks#
 [![Github](https://img.shields.io/github/followers/cedkeChat?style=for-the-badge&logo=github)](https://github.com/cedkeChat)
-[![Discord](https://discord.c99.nl/widget/theme-3/916962983958151168.png)](https://discord.com/users/916962983958151168)
-</div>
+</div
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/cedkeChat/count.svg" />
