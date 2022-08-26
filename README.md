@@ -1,11 +1,11 @@
 # Hello i'm cedkeChat 👋
 
-as programming languages code i use :
+as programming languages code :
 
 - 👻 i use C#
-- 👾 i use and learn python
-- 👨‍💻 i learn C++
-- 👁️ i use and learn HTML
+- 👾 i use python
+- 👨‍💻 i use (learn) C++
+- 👁️ i use HTML
 
 --> 
 
@@ -18,6 +18,10 @@ as programming languages code i use :
 
 ```text
 do you love cats? :]
+```
+
+```text
+My best friends : NakatsuV2, cricris67, not_nathoux and ferrariaurelien :]
 ```
 
 ---
