@@ -34,3 +34,7 @@ projects = [
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedkeChat&layout=compact&theme=github_dark&count_private=true" /><br />    
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cedkeChat&show_icons=true&theme=github_dark&count_private=true" /><br />
 </div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/cedkeChat/count.svg" />
+</div
