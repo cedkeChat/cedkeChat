@@ -9,7 +9,7 @@ as programming languages code i use :
 
 --> 
 
-<code><img height="25" src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg"></code>&nbsp;
+<code><img height="25" src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg"></code>&nbsp; <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>&nbsp;
 
 <img src="https://lanyard.cnrad.dev/api/916962983958151168">
 
