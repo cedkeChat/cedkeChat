@@ -4,8 +4,8 @@ as programming languages code i use :
 
 - 👻 i use C#
 - 👾 i use and learn python
-- 👽 i learn C++
-- 🤯i use and learn HTML
+- 👨‍💻 i learn C++
+- 👁️ i use and learn HTML
 
 --> 
 
@@ -23,8 +23,9 @@ do you love cats? :]
 ---
 ```C#
 projects = [
-    "Grenadine",
+    "grenadine",
     "MamiesMod V5",
+    "Minecraft Chat Edition V2",
     "cedkeInject",
 ]
 ```
