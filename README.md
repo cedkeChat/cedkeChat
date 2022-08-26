@@ -5,7 +5,9 @@ as programming languages code :
 - 👻 i use C#
 - 👾 i use python
 - 👨‍💻 i use (learn) C++
-- 👁️ i use HTML
+- 👁️ i use Html
+- 💎 i use javascript
+- 🤖 i use CSS
 
 --> 
 
