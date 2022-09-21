@@ -27,7 +27,7 @@ do you love cats? :]
 ```
 
 ```text
-My best friends : NakatsuV2, cricris67, not_nathoux and ferrariaurelien :]
+My best friends : NakatsuV2, not_nathoux, jaifail, edson.broux and ferrariaurelien :]
 ```
 
 # My Projects
