@@ -35,10 +35,10 @@ My best friends : NakatsuV2, not_nathoux, jaifail, edson.broux and ferrariaureli
 ---
 ```C#
 projects = [
-    "grenadine",
-    "MamiesMod V5",
     "Minecraft Chat Edition V2",
+    "CatyClient Minecraft Wii U Cheat/Mod Menu",
     "cedkeInject",
+    "CatyInject",
 ]
 ```
 
