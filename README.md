@@ -20,14 +20,15 @@ as programming languages code :
 
 <img src="https://lanyard.cnrad.dev/api/916962983958151168">
 
-# Cats
+# :]
 
 ```text
 do you love cats? :]
 ```
+# my best friends
 
 ```text
-My best friends : NakatsuV2, not_nathoux, jaifail, edson.broux and ferrariaurelien :]
+My best friends : NakatsuV2, Not_nathoux, Jaifail, Edson.broux (baguette) and ferrariaurelien :]
 ```
 
 # My Projects
@@ -37,8 +38,9 @@ My best friends : NakatsuV2, not_nathoux, jaifail, edson.broux and ferrariaureli
 projects = [
     "Minecraft Chat Edition V2",
     "CatyClient Minecraft Wii U Cheat/Mod Menu",
+    "Alien Cheat Mod Menu Black Ops II Wii U",
     "cedkeInject",
-    "CatyInject",
+    "Avalon Launcher (new)",
 ]
 ```
 
