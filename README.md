@@ -28,7 +28,7 @@ do you love cats? :]
 # my best friends
 
 ```text
-My best friends : NakatsuV2, Not_nathoux, Jaifail, Edson.broux (baguette) and ferrariaurelien :]
+My best friends : Nakatsu V2, Not_nathoux, Jaifail, Edson.broux, Rixcica and ferrariaurelien :]
 ```
 
 # My Projects
@@ -37,8 +37,8 @@ My best friends : NakatsuV2, Not_nathoux, Jaifail, Edson.broux (baguette) and fe
 ```C#
 projects = [
     "Minecraft Chat Edition V2",
-    "CatyClient Minecraft Wii U Cheat/Mod Menu",
-    "Alien Cheat Mod Menu Black Ops II Wii U",
+    "CatyClient Minecraft Wii U Cheat/Mod Menu (new)",
+    "Alien Cheat Mod Menu Black Ops II Wii U (new)",
     "cedkeInject",
     "Avalon Launcher (new)",
 ]
