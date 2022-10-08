@@ -1,13 +1,14 @@
-# Hello i'm cedkeChat 👋
+# Hi i'm cedkeChat 👋
 
-as programming languages code :
+I program
 
-- 👻 i use C#
-- 👾 i use python
-- 👨‍💻 i use C++
-- 👁️ i use Html
-- 💎 i use javascript
-- 🤖 i use CSS
+- 👻 C#
+- 👾 python
+- 👨‍💻 C++
+- 🧠 C
+- 👁️ Html
+- 💎 PHP
+- 🤖 CSS
 
 --> 
 
