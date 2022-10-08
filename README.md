@@ -1,6 +1,6 @@
 # Hi i'm cedkeChat 👋
 
-I program
+I program:
 
 - 👻 C#
 - 👾 python
