@@ -6,7 +6,7 @@ I program:
 - 👾 python
 - 👨‍💻 C++
 - 🧠 C
-- 👁️ Html
+- 👁️ html
 - 💎 PHP
 - 🤖 CSS
    
@@ -43,7 +43,7 @@ projects = [
     "CatyClient Minecraft Wii U Cheat/Mod Menu (new)",
     "Alien Cheat Mod Menu Black Ops II Wii U (new)",
     "cedkeInject",
-    "Avalon Launcher (new)",
+    "Caty Launcher (new)",
 ]
 ```
 
