@@ -4,8 +4,6 @@
 
 # My Discord Account
 
-  <code><img height="25" src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg"></code>&nbsp;
-
 <img src="https://lanyard.cnrad.dev/api/916962983958151168">
 
 --------------------------------------------------------------------------------------------------------------------------------------
