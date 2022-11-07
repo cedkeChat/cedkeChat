@@ -8,11 +8,6 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-# :]
-
-```text
-do you love cats? :]
-```
 # my best friends
 
 ```text
@@ -25,10 +20,9 @@ My best friends : Nakatsu V2, Not_nathoux, Jaifail, Edson.broux, Rixcica and fer
 ```C#
 projects = [
     "Minecraft Chat Edition V2",
-    "CatyClient Minecraft Wii U Cheat/Mod Menu (new)",
-    "Alien Cheat Mod Menu Black Ops II Wii U (new)",
+    "CatyClient Minecraft Wii U Cheat/Mod Menu",
+    "Alien Cheat Mod Menu Black Ops II Wii U",
     "cedkeInject",
-    "Caty Launcher (new)",
 ]
 ```
 
