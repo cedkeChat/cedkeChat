@@ -1,4 +1,7 @@
 # Hi i'm cedkeChat 👋
+
+<!-- ![aHhHH](https://user-images.githubusercontent.com/90534409/202776322-69b69f3b-4bd9-4848-b7aa-8b8e56750dfb.gif) -->
+![]https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif)
    
 -------------------------------------------------------------------------------------------------------------------------------------
 
