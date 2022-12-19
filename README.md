@@ -10,7 +10,10 @@
 # my best friends
 
 ```text
-My best friends : Nakatsu V2, Not_nathoux, Jaifail, Edson.broux, Rixcica and ferrariaurelien :]
+My best friends : 
+Nakatsu V2, Not_nathoux, 
+Jaifail, Edson.broux,
+Rixcica, charliekit and ferrariaurelien :]
 ```
 
 # My Projects
