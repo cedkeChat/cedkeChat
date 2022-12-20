@@ -25,6 +25,8 @@ projects = [
     "CatyClient Minecraft Wii U Cheat/Mod Menu",
     "Alien Cheat Mod Menu Black Ops II Wii U",
     "cedkeInject",
+    "KorozinMyFriend",
+    "ArgentinaRPX"
 ]
 ```
 
