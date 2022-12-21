@@ -16,20 +16,6 @@ Jaifail, Edson.broux,
 Rixcica, charliekit and ferrariaurelien :]
 ```
 
-# My Projects
-
----
-```C#
-projects = [
-    "Minecraft Chat Edition V2",
-    "CatyClient Minecraft Wii U Cheat/Mod Menu",
-    "Alien Cheat Mod Menu Black Ops II Wii U",
-    "cedkeInject",
-    "KorozinMyFriend",
-    "ArgentinaRPX"
-]
-```
-
 # cedkeChat Stats
 
 <div align="center">
