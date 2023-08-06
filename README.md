@@ -11,8 +11,8 @@
 
 ```text
 My best friends : 
-Nakatsu V2, Not_nathoux, 
-Jaifail, Edson.broux,
+Nakatsu V2, Not_nathoux,
+ Edson.broux, Azaee, KooTsi
 Rixcica, charliekit and ferrariaurelien :]
 ```
 
