@@ -1,4 +1,7 @@
-# Hi i'm cedkeChat 👋
+# Hello i'm cedkeChat 👋
+i'm Wii U Modder and Developper for Wii U and little PS3.
+I create my nonhost Menu for wiiu (mod menu minecraft wiiu) [Name Client: CatyClient]
+http://catymc.glitch.me [CatyClient website] no sd card and no computer and it's free !
 ---------------------------------------------------------------------------------------------------------------------
 
 # My Discord Account
